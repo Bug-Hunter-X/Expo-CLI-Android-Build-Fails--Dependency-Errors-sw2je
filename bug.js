@@ -1,0 +1,1 @@
+This bug occurs when using the Expo CLI to build an Android APK.  The build process fails with an error related to missing or corrupted dependencies, even after running `expo prebuild` and cleaning the project. The error messages can vary but often point to issues within the Android build system or conflicts between Expo modules.
